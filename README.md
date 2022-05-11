@@ -10,3 +10,4 @@ Biblioteca para análise e classificação de sentimentos dos dados textuais
 ### 4) WordCloud
 Aplicando Análise de nuvens de palavras
 
+<img align="center" src="https://user-images.githubusercontent.com/79602519/167743811-006928fa-5eb1-4cc2-9e56-6702b70a5e33.png"/>
